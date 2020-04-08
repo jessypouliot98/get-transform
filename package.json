@@ -1,0 +1,17 @@
+{
+	"name": "get-transform",
+	"version": "1.0.0",
+	"description": "A very lightweight library that returns a value based off a globaly declared function",
+	"main": "index.js",
+	"dependencies": {
+		"eslint-loader": "^4.0.0"
+	},
+	"eslintConfig": {
+		"env": {
+			"browser": true,
+			"node": true
+		}
+	},
+	"author": "Jessyp98",
+	"license": "ISC"
+}
