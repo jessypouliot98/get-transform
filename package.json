@@ -1,6 +1,6 @@
 {
 	"name": "get-transform",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A very lightweight library that returns a value based off a globaly declared function",
 	"main": "index.js",
 	"dependencies": {
@@ -13,5 +13,9 @@
 		}
 	},
 	"author": "Jessyp98",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jessypouliot98/get-transform.git"
+	},
 	"license": "ISC"
 }
